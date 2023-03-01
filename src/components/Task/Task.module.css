@@ -1,0 +1,25 @@
+.table {
+	width: 100%;
+	border: 1px;
+	text-align: center;
+	padding-top: 30px;
+}
+.tableheart {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: grey;
+}
+
+.tabledescription {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.checkbox {
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
+}
+.tableRow:nth-child(even) {
+	background-color: #98a49f;
+}
